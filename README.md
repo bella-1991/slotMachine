@@ -5,3 +5,5 @@ Getting Started
 ---------------
 1. npm install.
 2. npm start.
+
+http://slot-machine-shalini.herokuapp.com/
